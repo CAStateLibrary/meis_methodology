@@ -38,11 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-#Temp data folder
-/data/temp/
-
 # fed_prop_2021 CSV file
 /data/raw/fed_prop_2021.csv
-
-#Output folder
-/output
