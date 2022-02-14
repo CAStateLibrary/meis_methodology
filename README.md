@@ -3,7 +3,7 @@ Contains R code for transforming raw data to allow import and processing by IMPL
 
 ## How to Use This Repository
 Fork the repository, and clone to a new local RStudio Project.
-Edit the Parameters file - see instructions below or [(link to Documentation)] for detailed explanations.
+Edit the Parameters file - see instructions below or [click here](https://castatelibrary.github.io/meis_documentation/) for detailed explanations.
 Select the relevant "master.R" file to run. The "DEPRECATED_run_analysis_master.R" file may be used to repeat the 2021 study, but all subsequent years should use "run_analysis_master.R"
 
 ## Parameters File
